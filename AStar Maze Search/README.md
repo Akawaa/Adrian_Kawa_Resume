@@ -1,0 +1,1 @@
+This is a school assignment to search through a maze using AStar. The maze can be found in the maze file and the file called emaze is what I used to build my adjacency matrix.

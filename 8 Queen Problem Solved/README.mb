@@ -1,0 +1,1 @@
+I solved the 8 queen problem here using backtracking. The queen's function makes an n by n board and places n queens on the board where none of them will be in another's path.
